@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RN8zOjl9cgDrvPcP1g2jFT5iOTe8skmewNmevACnw1MceywbaKwJCGKz3dWmqVEZ2winHgV23BzlwMFvZaHedw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ventura\\source\\repos\\DependecyServices\\DependecyServices\\DependecyServices.iOS\\DependecyServices.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ventura\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ventura\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Ventura\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

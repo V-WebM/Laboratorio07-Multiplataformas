@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xl63ZX5t52JSfme/tYZgohhmiC46uxkuIqe5le211s5fVf7zUsWUdGt5d3aWsJHMkvrYtasY12U6LGnvoAU6pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ventura\\source\\repos\\DependecyServices\\DependecyServices\\DependecyServices\\DependecyServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ventura\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ventura\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Ventura\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ventura\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Ventura\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

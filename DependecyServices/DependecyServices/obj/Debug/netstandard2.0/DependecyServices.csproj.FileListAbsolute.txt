@@ -1,0 +1,17 @@
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\bin\Debug\netstandard2.0\DependecyServices.deps.json
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\bin\Debug\netstandard2.0\DependecyServices.dll
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\bin\Debug\netstandard2.0\DependecyServices.pdb
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\DependecyServices.csproj.AssemblyReference.cache
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\DependecyServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\BatteryDemo.xaml.g.cs
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\TextToSpeechDemo.xaml.g.cs
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\DependecyServices.AssemblyInfoInputs.cache
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\DependecyServices.AssemblyInfo.cs
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\DependecyServices.csproj.CoreCompileInputs.cache
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\DependecyServices.dll
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\refint\DependecyServices.dll
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\DependecyServices.pdb
+C:\Users\Ventura\source\repos\DependecyServices\DependecyServices\DependecyServices\obj\Debug\netstandard2.0\ref\DependecyServices.dll
